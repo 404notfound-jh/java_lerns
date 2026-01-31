@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java build
+*.class
+*.jar
+*.war
+*.ear
+/target/
+/build/
+/out/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.swp
